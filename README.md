@@ -1,0 +1,1 @@
+----你好 Hola Hello こんにちは Bonjour----
