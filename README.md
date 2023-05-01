@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);----你好 Hola Helこんにちは Bonjour!----&center=true&size=27"> </a> </h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=32&pause=2000&color=0FF7D9&center=true&vCenter=true&width=435&lines=----+Hello+There+!+----" alt="Typing SVG" /></a>
 
 ### Hi there，I'm Hyr1sky 🙋‍♂️
 
