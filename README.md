@@ -2,5 +2,6 @@
 
 ### Hi there，I'm Hyr1sky 🙋‍♂️
 
-- Open source is something I'm interested in.
-- Artificial intelligence is an area I'm focusing on right now.
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Hyr1sky&show_icons=true&theme=light&count_private=true)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyr1sky&theme=light&layout=compact)
