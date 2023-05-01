@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=32&pause=2000&color=0FF7D9&center=true&vCenter=true&width=435&lines=----+Hello+There+!+----" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=32&pause=2000&color=0FF7D9&vCenter=true&width=435&lines=----+Hyr1sky+There+!+----" alt="Typing SVG" /></a>
 
 ### Hi there，I'm Hyr1sky 🙋‍♂️
 
