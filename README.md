@@ -19,7 +19,7 @@
   [![GitHub Streak](https://streak-stats.demolab.com?user=Hyr1sky&theme=rose)](https://git.io/streak-stats)
   
   <!-- 贪吃蛇 -->
-  ![](https://raw.githubusercontent.com/alantu123/alantu123/main/assets/github-contribution-grid-snake.svg)
+  ![](https://raw.githubusercontent.com/Hyr1sky/Hyr1sky/main/assets/github-contribution-grid-snake.svg)
   
   <!--Visitor Counter-->
   ![Visitor Count](https://profile-counter.glitch.me/Hyr1sky/count.svg)
