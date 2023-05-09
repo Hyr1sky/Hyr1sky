@@ -7,7 +7,7 @@
   
   <div align="center">
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Darumadrop+One&size=30&duration=3000&pause=100&color=F7A225&background=FFFFFF00&vCenter=true&multiline=true&repeat=true&width=435&height=200&lines=Yesterday+is+history;Tomorrow+is+mystery;But+today+is+a+gift;That's+why+it's+called+present" alt="Typing SVG" /></a>
-      <img alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+      <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
   </div>
 
   ![Github Stats](https://github-readme-stats.vercel.app/api?username=Hyr1sky&show_icons=true&theme=light&count_private=true)
