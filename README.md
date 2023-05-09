@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=32&pause=2000&color=0FF7D9&vCenter=true&width=650&lines=</ ----+Hyr1sky+There+!+---- />" alt="Typing SVG" /></a>
 
 <div align="center">
-    <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+    <img align="center" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 </div>
 
 ### Hi there，I'm Hyr1sky 🙋‍♂️
