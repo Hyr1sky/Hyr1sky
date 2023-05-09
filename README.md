@@ -8,5 +8,7 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyr1sky&theme=light&layout=compact)
 
-  <!-- 访客计数 -->
-  ![Visitor Count](https://profile-counter.glitch.me/Hyr1sky/count.svg)
+<div align="center">
+    <!-- 访客计数 -->
+    ![Visitor Count](https://profile-counter.glitch.me/Hyr1sky/count.svg)
+</div>
