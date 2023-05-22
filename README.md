@@ -12,6 +12,10 @@
 
   ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyr1sky&theme=light&layout=compact)
 
+  <!-- steam图片 -->
+  <a href="https://steamcommunity.com/profiles/76561198841843367/" >
+  <img src="https://github-readme-steam-status.vercel.app/?steamid=76561198841843367"/></a>
+  
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Hyr1sky&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   <div align="center">
