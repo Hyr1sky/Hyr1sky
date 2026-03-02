@@ -31,4 +31,11 @@
 
 
 ### 📬 Connect with me
-[![GitHub](https://img.shields.io/badge/GitHub-Hyr1sky-181717?style=flat-square&logo=github)](https://github.com/Hyr1sky)
+<p align="left">
+  <a href="mailto:CillianHe@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/Hyr1sky">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
